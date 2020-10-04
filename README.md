@@ -12,7 +12,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* код приложения Credit Card Number Validator
+* код приложения [Credit Card Number Validator](https://github.com/GrebenkovaMaria/HW_JavaForQA_1.2/blob/main/src/com/company/Main.java)
 * номера карт с [freeformatter](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
 
